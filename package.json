@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "packageManager": "pnpm@10.15.1",
+  "scripts": {
+    "gemini": "gemini",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@google/gemini-cli": "0.3.4",
+    "prettier": "3.6.2"
+  }
+}
